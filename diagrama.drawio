@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Safari/605.1.15" version="29.5.5">
+  <diagram name="Página-1" id="DfM4GNiRJxI7LAEupIXK">
+    <mxGraphModel dx="1216" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-3" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="CGEPYpJnGG5_dEc6qEEp-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-1" parent="1" style="text;whiteSpace=wrap;html=1;align=center;rounded=0;" value="&lt;span class=&quot;s1&quot;&gt;Repositorio main&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="380" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-5" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="CGEPYpJnGG5_dEc6qEEp-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-2" parent="1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Crear estructura de proyecto&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="330" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-6" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&amp;nbsp;Ramas (Branches)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;---&amp;gt;análisis-exploratorio&lt;/div&gt;&lt;div&gt;|&lt;/div&gt;&lt;div&gt;merge a main&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;---&amp;gt;modelado&lt;/div&gt;&lt;div&gt;|&lt;/div&gt;&lt;div&gt;merge a main&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="250" x="315" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-9" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="460" />
+            </Array>
+            <mxPoint x="455" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Crear Conflicto (mejorar-visualizacion" vertex="1">
+          <mxGeometry height="30" width="250" x="315" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-12" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Resolver conflicto manual" vertex="1">
+          <mxGeometry height="30" width="250" x="405" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-17" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="CGEPYpJnGG5_dEc6qEEp-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Merge en main" vertex="1">
+          <mxGeometry height="30" width="250" x="330" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-19" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="CGEPYpJnGG5_dEc6qEEp-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Commit de merge" vertex="1">
+          <mxGeometry height="30" width="250" x="330" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-21" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="CGEPYpJnGG5_dEc6qEEp-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Recoveries &amp;amp; Correcciones" vertex="1">
+          <mxGeometry height="30" width="250" x="330" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-23" edge="1" parent="1" source="CGEPYpJnGG5_dEc6qEEp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" target="CGEPYpJnGG5_dEc6qEEp-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;* commit --amend&lt;br&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;span class=&quot;s1&quot;&gt;* recuperar archivo eliminado&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="40" width="250" x="330" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="CGEPYpJnGG5_dEc6qEEp-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Resultado final" vertex="1">
+          <mxGeometry height="40" width="250" x="330" y="810" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
