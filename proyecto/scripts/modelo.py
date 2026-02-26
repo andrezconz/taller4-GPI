@@ -1,0 +1,2 @@
+print("Modelo estadístico ejecutado")
+
