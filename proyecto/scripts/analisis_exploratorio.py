@@ -1,3 +1,3 @@
 import pandas as pd
 
-print("Visualización alternativa desde main")
+print("Visualización combinada desde main y mejorar-visualizacion")
